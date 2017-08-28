@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{8002E4DD-80B1-F3C7-1315-02E0DBFF17F5}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SurfaceNOise.shader">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/VertDistorationSurfaceShader.shader">
     <Files>
       <File FileName="Assets/CreateMesh.cs" Line="7" Column="28" />
-      <File FileName="Assets/SurfaceNOise.shader" Line="59" Column="31" />
+      <File FileName="Assets/Shaders/SinWaveDistor.shader" Line="43" Column="5" />
+      <File FileName="Assets/Shaders/VertDistorationSurfaceShader.shader" Line="14" Column="56" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.New_220Unity_220Project_2201 PreferredExecutionTarget="Unity.Editor" />
